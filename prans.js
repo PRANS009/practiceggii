@@ -5,3 +5,7 @@ const age=20;
 
 const char =19;
 console.log(char);
+
+function newFeatureAdd(){
+    console.log("this is the new function ")
+}
