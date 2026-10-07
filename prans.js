@@ -10,3 +10,6 @@ function newFeatureAdd(){
     console.log("this is the new function ")
     console.log("adding some more detail")
 }
+function newPromise()  {
+    console.log("promise functon addd")
+}
