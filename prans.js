@@ -8,4 +8,5 @@ console.log(char);
 
 function newFeatureAdd(){
     console.log("this is the new function ")
+    console.log("adding some more detail")
 }
